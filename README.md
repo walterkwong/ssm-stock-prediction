@@ -8,7 +8,7 @@ It compares Mamba with deep learning time series baselines and tests whether **T
 
 The overall pipeline is shown below.
 
-![Project Infrastructure](infrastructure.png)
+![Project Infrastructure](infrastructure.jpg)
 
 The project collects daily OHLCV data, constructs several feature sets, trains different Mamba architectures and compares their performance against time series baselines.
 
